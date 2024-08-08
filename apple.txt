@@ -1,1 +1,2 @@
 Learning Git 
+Now i am making a second commit
